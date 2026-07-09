@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Minecraft Unity
 
 An as exact as possible recreation of Minecraft that I can make in Unity.
@@ -17,3 +18,7 @@ Check out the project in action:
 - **Voxel System** - Block-based world with customizable block types
 - **Player Controller** - Smooth first-person camera and flight mechanics made to be exactly like Minecraft
 - **Multiplayer networking** - Built with Mirror networking framework for multiplayer capabilities through steam
+=======
+# VoxelSurvival
+A survival game inspired by minecraft.
+>>>>>>> ba6fd791602943678db11457cc0f3ebd69486c38
