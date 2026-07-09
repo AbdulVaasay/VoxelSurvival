@@ -1,10 +1,10 @@
-# 🎮 Minecraft Unity
+# Minecraft Unity
 
 A fully functional Minecraft clone built from scratch in **Unity 2022.1.12f1** using **C#**. Features procedural world generation, a block-based survival system, and real-time multiplayer via Steam lobbies.
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Home](home.png)
 ![World](world.png)
@@ -14,7 +14,7 @@ A fully functional Minecraft clone built from scratch in **Unity 2022.1.12f1** u
 
 ---
 
-## ✨ Features
+## Features
 
 - 🌍 **Procedural world generation** — terrain, biomes, caves, and trees generated using layered Perlin noise
 - 🧱 **Block system** — fully modular block database with custom block types and textures
@@ -26,7 +26,7 @@ A fully functional Minecraft clone built from scratch in **Unity 2022.1.12f1** u
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 | Tool | Purpose |
 |------|---------|
@@ -40,7 +40,7 @@ A fully functional Minecraft clone built from scratch in **Unity 2022.1.12f1** u
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Unity **2022.1.12f1** (exact version recommended)
 - Visual Studio 2019 or **2022** (with "Game development with Unity" workload)
@@ -49,7 +49,7 @@ A fully functional Minecraft clone built from scratch in **Unity 2022.1.12f1** u
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -77,7 +77,7 @@ Make sure **Steam is open and you are logged in**, then press the ▶ **Play** b
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 1. Press **▶ Play** in Unity
 2. In the game window, click **Host (LAN)** to start a world as the server
@@ -86,7 +86,7 @@ Make sure **Steam is open and you are logged in**, then press the ▶ **Play** b
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Assets/
@@ -111,7 +111,7 @@ Assets/
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 The project is divided into four main systems that work together:
 
@@ -142,7 +142,7 @@ Gen     System  System
 
 ---
 
-## ⚠️ Known Issues & Fixes
+## Known Issues & Fixes
 
 ### Steam not initialized error
 Steam must be **open and logged in** before pressing Play. If you see a `NullReferenceException` related to `SteamClient`, make sure Steam is running.
@@ -155,7 +155,7 @@ Go to **Window → Package Manager**, switch to **Unity Registry**, search for *
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -167,13 +167,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-## 📜 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Mirror Networking](https://mirror-networking.com/) — open source multiplayer framework
 - [Steamworks.NET](https://steamworks.github.io/) — C# wrapper for the Steamworks API
