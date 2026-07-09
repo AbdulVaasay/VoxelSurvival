@@ -4,16 +4,6 @@ A fully functional Minecraft clone built from scratch in **Unity 2022.1.12f1** u
 
 ---
 
-## Preview
-
-![Home](home.png)
-![World](world.png)
-![Crafting](crafting.png)
-![Building](building.png)
-
-
----
-
 ## Features
 
 - 🌍 **Procedural world generation** — terrain, biomes, caves, and trees generated using layered Perlin noise
